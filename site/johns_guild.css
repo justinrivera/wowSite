@@ -1,0 +1,34 @@
+.container-fluid {
+	display: inline;
+	background: #272727;
+	color: #dd0000;
+}
+
+header {
+	clear: both;
+	border: 2px dashed #ff00ff;
+	text-align: top;
+}
+
+#raids {
+	border: 2px solid #ff0000;
+	padding: 10px;
+}
+
+main {
+	border: 2px solid #eeeeee;
+}
+
+#poll {
+	border: 2px double #0000ff;
+	padding: 10px;
+}
+
+#rank {
+	border: 2px dotted #00ffff;
+	padding: 10px;
+}
+
+footer {
+	color: #ffffff;
+}
